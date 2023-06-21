@@ -41,7 +41,7 @@ body {
 
 .blogcredits {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 8px;
   font-size: 1.2rem;
 }
